@@ -1,0 +1,29 @@
+﻿.footerLinks {
+    color: #ffffff;
+    text-decoration: none !important;
+}
+
+    .footerLinks:hover {
+        color: black;
+    }
+
+#footer1 {
+    background: #31eb5d;
+}
+
+#footer2 {
+    background: #09ab2f;
+}
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+    margin-top: 50px;
+    text-align: center;
+}
+.card-body .row .col h4 {
+    color: red;
+}
+
+body {
+}
